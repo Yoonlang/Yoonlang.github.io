@@ -2,7 +2,7 @@
 title: Lanyon
 tagline: "A Jekyll theme"
 description: ""
-url: "https://yoonlang.github.io"
+url: https://yoonlang.github.io
 baseurl: ""
 paginate: 5
 permalink: pretty
@@ -10,7 +10,7 @@ permalink: pretty
 # About/contact
 author:
   name: 최윤석
-  url: "https://yoonlang.github.io"
+  url: https://yoonlang.github.io
   email: cdt9473@gmail.com
 
 # Gems
