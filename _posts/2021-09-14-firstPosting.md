@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 첫 게시글. 앞으로의 포스팅에 대해서
+title: 첫 게시글, 앞으로의 포스팅에 대해서
 ---
 
 주로 Vanilla Javascript와 React의 문제 해결에 대해서 작성할 예정이고,
