@@ -5,7 +5,7 @@
 
   document.addEventListener('click', function(e) {
     var target = e.target;
-
+    console.log("hi");
     if(!checkbox.checked ||
        sidebar.contains(target) ||
        (target === checkbox || target === toggle)) return;
