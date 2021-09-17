@@ -3,8 +3,6 @@ layout: post
 title: 첫 게시글. 앞으로의 포스팅에 대해서
 ---
 
-[GIthub 주소](https://github.com/Yoonlang)
-
 주로 Vanilla Javascript와 React의 문제 해결에 대해서 작성할 예정이고,
 개인적인 공부인 HTML5 Canvas에 대해서도 올릴 예정입니다.
 
