@@ -12,21 +12,24 @@ title: Profile
 
 <br/>
 
-## Projects
+### Projects
 
 #### - [CSE Seat](https://github.com/CSE-seat/CSE-Seat)
 
 <br/>
 
-## 설계
+### 설계
+<p class="message">
 💡 설계를 중시한다고 적어놨는데 무슨 뜻인가요?<br/>
 좋은 개발자라면 문제 해결을 위해 반드시 설계 과정을 거쳐야 한다고 생각합니다.<br/>
+</p>
 <br/>
 * 설계란?<br/>
 요구사항 인지 - 설계 - 구현<br/>
 총 3단계로도 충분할 정도의 설계 능력을 가져야 한다고 생각합니다.<br/>
 이는 divide and conquer와 같고, 작은 기능을 구현할 때 또한 필요합니다.<br/>
 <br/>
+
 설계에 대한 저의 생각은 알고리즘 문제 풀이와 CSE Seat 프로젝트에서 비롯됐습니다.<br/>
 <br/>
 1. 국내 기업 코딩 테스트를 준비하며<br/>
