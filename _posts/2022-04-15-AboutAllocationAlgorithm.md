@@ -19,7 +19,7 @@ title: CSE Seat 자리 배정 알고리즘에 대해
 자리 선정은 점수제로 했다. 여러가지 고려사항에 대해 점수를 부여하고, 그 중 최대 점수인 자리로 선정한다.
 자리를 선정하면 그 자리의 value는 -1이며, 앞으로의 자리 선택에서 배제한다.<br/>
 <br/>
-[자리 배정 알고리즘 전체 코드](https://raw.githubusercontent.com/CSE-seat/CSE-Seat/main/backend/src/AllocationAlgorithm.js)</br>
+[자리 배정 알고리즘 전체 코드](https://raw.githubusercontent.com/CSE-seat/CSE-Seat/main/backend/src/AllocationAlgorithm.js)
 <br/>
 함수에 대한 설명<br/><br/>
 Allocation<br/>                      각 request들에 대해 solveReq를 돌려서 나온 data를 통해 신청한 인원들을 자리를 배정해준다.<br/><br/>
@@ -36,4 +36,3 @@ handleEmptySeat<br/>                 1,2부, 각 강의실에 대해 빈 자리�
 seatNumChanger<br/>                  자리 번호를 파라미터로 넣어주면 그 자리 번호에 대한 방 index, 2차원 자리 좌표를 배열에 넣어서 반환하는 함수.<br/><br/>
 backToSeatNumber<br/>                방번호, 2차원 자리 좌표를 주면 자리 번호를 반환해주는 함수.<br/>
 <br/><br/>
-
