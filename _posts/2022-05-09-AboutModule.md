@@ -59,5 +59,5 @@ Node.js의 모듈 시스템인 CommonJS는 위의 인스턴스 과정에서 expo
 ![cycle](../assets/cycle.png)
 
 ### 참고 
-[MDN - JS Modules](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Modules)
+[MDN - JS Modules](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Modules)<br/>
 [ES modules: 만화로 보는 심층 탐구](https://ui.toast.com/weekly-pick/ko_20180402)
