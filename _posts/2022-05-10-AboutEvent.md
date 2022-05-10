@@ -31,3 +31,8 @@ closet을 쓰면 가장 근접한 조상 요소를 반환한다.
 #### stopPropagation
 event.Propagation()을 통해 캡쳐링 및 버블링을 막을 수 있다.
 
+### 참고
+[이벤트 위임 문서](https://ko.javascript.info/event-delegation)<br/>
+[이벤트 위임 - moonheekim0118님](https://velog.io/@moonheekim0118/JavaScript-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%B2%84%EB%B8%94%EB%A7%81)<br/>
+[이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
+
