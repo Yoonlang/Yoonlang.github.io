@@ -29,7 +29,7 @@ closet을 쓰면 가장 근접한 조상 요소를 반환한다.
 캡쳐링같은 경우 이벤트 핸들러를 설정할 때, 옵션을 넣어야해서 default는 캡쳐링하지 않는다.
 
 #### stopPropagation
-event.Propagation()을 통해 캡쳐링 및 버블링을 막을 수 있다.
+event.stopPropagation()을 통해 캡쳐링 및 버블링을 막을 수 있다.
 
 ### 참고
 [이벤트 위임 문서](https://ko.javascript.info/event-delegation)<br/>
